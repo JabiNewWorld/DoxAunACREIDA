@@ -1,7 +1,7 @@
 # DoxAUNaCreidaPuertoRiqueña
 UN DOX A UN MMG 
 
-|||**USUARIO A DOXEA BY  
+```USUARIO A DOXEA BY  
 GUZELRP 
 TIENE DE SOBRENOMBRE GUZEL GAMING RP 
 NOMBRE DE SU PERSONAJE 
@@ -31,4 +31,4 @@ Se cambió el nombre a Kotkas PR PUBG Mobile
 Se cambió el nombre a PRO Gamers PR PUBG Mobile
 12 de septiembre de 2019
 
-Cuenta de twitter SUSPENDIDA!!**|||
+Cuenta de twitter SUSPENDIDA!!```
