@@ -1,5 +1,5 @@
 # DoxAUNaCreidaPuertoRiqueña
-UN DOX A UN MMG 
+UN DOX A UNa MMG 
 
 ```USUARIO A DOXEA BY  
 GUZELRP 
